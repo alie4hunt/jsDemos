@@ -16,3 +16,7 @@ Demos for various JS functions also code repo for various webextensions submitte
 * maesureIt_webext - contentScript API, browserAction API
 * reminders_webext - Storage API, Notification API, BrowserAlarms, BrowserAction
 * wordCount_webext - ContextMenu API, Notification API
+
+
+New Update 
+Add word style - bold, italic, understand 
